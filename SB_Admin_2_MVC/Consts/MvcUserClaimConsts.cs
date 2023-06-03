@@ -1,0 +1,1 @@
+namespace SB_Admin_2_MVC.Consts;public static class MvcUserClaimConsts{    public const string ProfilePicUrl = "urn:google:picture";    public const string Locale = "urn:google:locale";}
